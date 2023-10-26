@@ -54,7 +54,7 @@ website_route_rules = [
 website_redirects = [
 	{"source": "/", "target": "/s"},
 	{"source": "/login", "target": "/s/login"},
-	{"source": "/app", "target": "/app/private/sales-portal"}
+	{"source": "/app", "target": "/app/sales-portal"}
 ]
 # Generators
 # ----------

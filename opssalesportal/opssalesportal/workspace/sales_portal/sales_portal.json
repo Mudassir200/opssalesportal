@@ -1,22 +1,23 @@
 {
  "charts": [],
- "content": "[{\"id\":\"qdI0fXzppM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h3\\\"><b>Opssalesportal Workspace</b></span>\",\"col\":12}},{\"id\":\"1o-Vhp0MoM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Realestate Project\",\"col\":3}},{\"id\":\"8p7ym1e27f\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Realestate Property\",\"col\":3}},{\"id\":\"yZ_sUCA_dv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property Reservations\",\"col\":3}},{\"id\":\"_gDfMCVJ5V\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property Eoi\",\"col\":3}},{\"id\":\"HJ0VFJNugD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"User\",\"col\":3}},{\"id\":\"i2qh8W6xky\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"City\",\"col\":3}},{\"id\":\"Tv_vvngY-o\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"State\",\"col\":3}},{\"id\":\"FmF4zd508b\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Portal Settings\",\"col\":3}},{\"id\":\"0T2oHG8ZDX\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"o87aExJx_P\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Masters</b></span>\",\"col\":12}},{\"id\":\"-RSBz87nK-\",\"type\":\"card\",\"data\":{\"card_name\":\"Opssalesportal Project\",\"col\":4}},{\"id\":\"nlUzIwUG2l\",\"type\":\"card\",\"data\":{\"card_name\":\"Opssalesportal Property\",\"col\":4}},{\"id\":\"ujm4bB9UR5\",\"type\":\"card\",\"data\":{\"card_name\":\"Property Reservation\",\"col\":4}},{\"id\":\"tHmBJh5m3m\",\"type\":\"card\",\"data\":{\"card_name\":\"Customer\",\"col\":4}},{\"id\":\"54vCn0YFMX\",\"type\":\"card\",\"data\":{\"card_name\":\"Vendor\",\"col\":4}},{\"id\":\"6i-2vLqkKD\",\"type\":\"card\",\"data\":{\"card_name\":\"Other\",\"col\":4}}]",
- "creation": "2023-10-25 17:59:18.414527",
+ "content": "[{\"id\":\"qdI0fXzppM\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h3\\\"><b>Sales Portal</b></span>\",\"col\":12}},{\"id\":\"1o-Vhp0MoM\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Realestate Project\",\"col\":3}},{\"id\":\"8p7ym1e27f\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Realestate Property\",\"col\":3}},{\"id\":\"yZ_sUCA_dv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property Reservations\",\"col\":3}},{\"id\":\"_gDfMCVJ5V\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Property Eoi\",\"col\":3}},{\"id\":\"HJ0VFJNugD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"User\",\"col\":3}},{\"id\":\"i2qh8W6xky\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"City\",\"col\":3}},{\"id\":\"Tv_vvngY-o\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"State\",\"col\":3}},{\"id\":\"FmF4zd508b\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Portal Settings\",\"col\":3}},{\"id\":\"0T2oHG8ZDX\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"o87aExJx_P\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Masters</b></span>\",\"col\":12}},{\"id\":\"-RSBz87nK-\",\"type\":\"card\",\"data\":{\"card_name\":\"Projects\",\"col\":4}},{\"id\":\"nlUzIwUG2l\",\"type\":\"card\",\"data\":{\"card_name\":\"Property\",\"col\":4}},{\"id\":\"ujm4bB9UR5\",\"type\":\"card\",\"data\":{\"card_name\":\"Property Reservation\",\"col\":4}},{\"id\":\"tHmBJh5m3m\",\"type\":\"card\",\"data\":{\"card_name\":\"Customer\",\"col\":4}},{\"id\":\"54vCn0YFMX\",\"type\":\"card\",\"data\":{\"card_name\":\"Vendor\",\"col\":4}},{\"id\":\"6i-2vLqkKD\",\"type\":\"card\",\"data\":{\"card_name\":\"Other\",\"col\":4}}]",
+ "creation": "2023-10-26 16:31:48.349827",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
  "for_user": "",
  "hide_custom": 0,
- "icon": "retail",
+ "icon": "organization",
  "idx": 0,
  "is_hidden": 0,
- "label": "Opssalesportal",
+ "label": "Sales Portal",
  "links": [
   {
    "hidden": 0,
    "is_query_report": 0,
    "label": "Vendor",
    "link_count": 3,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -53,36 +54,9 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Opssalesportal Property",
-   "link_count": 2,
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Property Status",
-   "link_count": 0,
-   "link_to": "Property Status",
-   "link_type": "DocType",
-   "onboard": 0,
-   "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Property Type",
-   "link_count": 0,
-   "link_to": "Property Type",
-   "link_type": "DocType",
-   "onboard": 0,
-   "type": "Link"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
    "label": "Opssalesportal Project",
    "link_count": 5,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -141,6 +115,7 @@
    "is_query_report": 0,
    "label": "Customer",
    "link_count": 2,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -169,6 +144,7 @@
    "is_query_report": 0,
    "label": "Other",
    "link_count": 5,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -227,6 +203,7 @@
    "is_query_report": 0,
    "label": "Property Reservation",
    "link_count": 4,
+   "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
   },
@@ -269,12 +246,100 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Projects",
+   "link_count": 5,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Status",
+   "link_count": 0,
+   "link_to": "Project Status",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Project Listing Status",
+   "link_count": 0,
+   "link_to": "Project Listing Status",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Required Documents for Reservation",
+   "link_count": 0,
+   "link_to": "Required Documents for Reservation",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Rental Terms",
+   "link_count": 0,
+   "link_to": "Rental Terms",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Property Manager",
+   "link_count": 0,
+   "link_to": "Property Manager",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Property",
+   "link_count": 2,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Property Status",
+   "link_count": 0,
+   "link_to": "Property Status",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Property Type",
+   "link_count": 0,
+   "link_to": "Property Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2023-10-25 19:53:03.325257",
+ "modified": "2023-10-26 16:34:51.417146",
  "modified_by": "Administrator",
  "module": "Opssalesportal",
- "name": "Opssalesportal",
+ "name": "Sales Portal",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -293,13 +358,6 @@
   {
    "color": "Grey",
    "doc_view": "List",
-   "label": "Sales Portal Settings",
-   "link_to": "Sales Portal Settings",
-   "type": "DocType"
-  },
-  {
-   "color": "Grey",
-   "doc_view": "List",
    "label": "Realestate Property",
    "link_to": "Realestate Property",
    "type": "DocType"
@@ -307,8 +365,8 @@
   {
    "color": "Grey",
    "doc_view": "List",
-   "label": "User",
-   "link_to": "User",
+   "label": "Sales Portal Settings",
+   "link_to": "Sales Portal Settings",
    "type": "DocType"
   },
   {
@@ -321,8 +379,8 @@
   {
    "color": "Grey",
    "doc_view": "List",
-   "label": "State",
-   "link_to": "State",
+   "label": "User",
+   "link_to": "User",
    "type": "DocType"
   },
   {
@@ -335,10 +393,17 @@
   {
    "color": "Grey",
    "doc_view": "List",
+   "label": "State",
+   "link_to": "State",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
    "label": "Property Eoi",
    "link_to": "Property Eoi",
    "type": "DocType"
   }
  ],
- "title": "Opssalesportal"
+ "title": "Sales Portal"
 }
